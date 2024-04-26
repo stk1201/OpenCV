@@ -4,3 +4,13 @@
 <br>
 使用言語：python  
 実行方法：Google Colaboratory上でopencv.jpynbを開く。そして、Google Colaboratory内のフォルダの中にsample.jpgを保存する。最後に実行をする。
+<br>
+# 実行結果例
+写真の大きさを小さくするために訓練データによる学習回数（エポック数）を２に変更し、一つ目のコードを実行した結果を写真を下に載せています。
+<br>
+![](https://github.com/stk1201/OpenCV/blob/main/code1.png)
+<br>
+その後に2つ目のコードを実行した結果を下の写真に示しています。
+<br>
+![](https://github.com/stk1201/OpenCV/blob/main/code2.png)
+<br>
